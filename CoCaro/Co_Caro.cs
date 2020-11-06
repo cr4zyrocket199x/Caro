@@ -236,7 +236,7 @@ namespace CoCaro
         {
             if (Stack_Cac_Nuoc_Da_Di.Count == _Ban_Co.NRow * _Ban_Co.NCoLumn)
             {
-                _Ket_Thuc = 0; //hòa cờ
+                _Ket_Thuc = 0; //hòa  cờ
                 return true;
             }
             if (Chedo == 1)
